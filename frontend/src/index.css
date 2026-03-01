@@ -1,0 +1,5 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: 'Inter', sans-serif; background: #0a0612; color: #fff; }
+a { color: #a855f7; text-decoration: none; }
+button { cursor: pointer; }
+input, select, textarea { outline: none; }
